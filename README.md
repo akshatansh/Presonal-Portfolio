@@ -3,7 +3,7 @@
   <a href="https://akshatanshportfolio.vercel.app/" target="_blank">Akshatansh</a>
 </h2>
 <div align="center">
-  <img alt="Demo" src="./Images/readme-img1.png" />
+  <img alt="Demo" src="./Assets/readme.jpg" />
 </div>
 
 <br/>
