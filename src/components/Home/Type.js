@@ -8,12 +8,12 @@ function Type() {
         strings: [
           "Software Developer",
           "MERN Stack Developer",
-          "Social Media Marketing",
+          "Digital Marketing",
           "Ethical Hacking",
         ],
         autoStart: true,
         loop: true,
-        deleteSpeed: 10,
+        deleteSpeed: 30,
       }}
     />
   );
