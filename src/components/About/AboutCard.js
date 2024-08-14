@@ -11,10 +11,10 @@ function AboutCard() {
             Hi Everyone, I am <span className="purple">Pintu Kumar </span>
             from <span className="purple"> Bihar (Purnea) </span>
             <br />
-            I am currently Searching Job In Software developer.
+            I am a Software Engineer.
             <br />
             I have completed B.tech in Computer Science at A.K.T.U
-            Lucknow.
+            University.
             <br />
             <br />
             Apart from coding, some other activities that I love to do!
